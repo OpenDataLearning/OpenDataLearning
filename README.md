@@ -1,4 +1,4 @@
-# Open Data Learning Resources
+# Open Data Learning
 This repository stands as a free and (hopefully) useful learning resource for anybody attempting to learn the fundamental skills required for a career in data. Whether you're a student, a young professional, an expereinced professional changing careers or simply somebody who is interested in learning how to interact with data then this is the place for you!
 ___
 ## Contents
